@@ -1,0 +1,10 @@
+{
+  "node1": {
+    "nodename":"node1",
+    ...
+  },
+  "node2": {
+    "nodename":"node2",
+    ...
+  }
+}
